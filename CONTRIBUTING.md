@@ -1,70 +1,14 @@
-Thanks for your interest on contributing to this repo
-=====================================================
+# Contributing
 
-To keep things simple and organized, we need to keep some basic rules when adding new links:
+This project welcomes contributions and suggestions. Most contributions require you to
+agree to a Contributor License Agreement (CLA) declaring that you have the right to
+and actually do, grant us the rights to use your contribution. For more details, visit
+[https://cla.microsoft.com](https://cla.microsoft.com/?WT.mc_id=academic-77807-sagibbon).
 
-- Make sure the link you are adding is not already added
-- Make sure the link is relevant to this repo. We are focusing on game development here.
-- Make sure the list you are adding is kept alphabetically ordered. This make it easier to find the links
-- Be nice, be cool, and we will always :heart: you!
+When you submit a pull request, a CLA-bot will automatically determine whether you need
+to provide a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the
+instructions provided by the bot. You will only need to do this once across all repositories using our CLA. Please also try to tell us why you made that change so that we better understand your request.
 
-
-:)
-
-
-Original Contributors from https://github.com/ellisonleao/magictools
---------
-@ellisonleao,
-@Zolomon,
-@Kavex,
-@ReadmeCritic,
-@JoseFaeti,
-@williamd1k0,
-@gnuwilliam,
-@Jarvizx,
-@StuffBySpencer,
-@rickyah,
-@rex64,
-@Lechindianer,
-@Fortyseven,
-@icodeforlove,
-@dogancelik,
-@abhishekjiitr,
-@drabiter,
-@englercj,
-@felipebueno,
-@Cristy94,
-@Nax,
-@hzoo,
-@kotajacob,
-@JulienGenoud,
-@xeBuz,
-@thatType,
-@alltom,
-@oostap,
-@vladimir-vovk,
-@the-shank,
-@ravedragon,
-@rickboerebach,
-@shakiba,
-@leereilly,
-@StuartNZ,
-@raphamorim,
-@PxlBuzzard,
-@melissaford,
-@nanexcool,
-@kanshi,
-@Tiago-Ling,
-@csprance,
-@icecreammatt,
-@slackmoehrle,
-@ilexp,
-@pra85,
-@lawlessc,
-@awesome-bot,
-@Phonbopit,
-@Yonaba,
-@liam-middlebrook
-
-
-
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/?WT.mc_id=academic-77807-sagibbon).
+For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/?WT.mc_id=academic-77807-sagibbon)
+or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
